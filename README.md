@@ -15,7 +15,7 @@ This project uses Machine Learning / Deep Learning to classify waste images into
 - NumPy, Pandas
 
 ## 📊 Results
-
+https://github.com/Nandinisahu75/Waste-Classification-through-images/blob/main/Result.png
 
 ## 📁 How to Run
 1. Open the Jupyter Notebook
